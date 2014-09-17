@@ -10,17 +10,17 @@
   "scripts": {
     "test": "grunt nodeunit"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sithu/cmpe273-lab2"
-  },
-  "keywords": [
-    "nodejs",
-    "connect"
-  ],
-  "author": "Sithu Aung",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/sithu/cmpe273-lab2/issues"
-  }
-}
+ // "repository": {
+  //  "type": "git",
+   // "url": "https://github.com/sithu/cmpe273-lab2"
+ // },
+  //"keywords": [
+   // "nodejs",
+    //"connect"
+  //],
+  //"author": "Sithu Aung",
+  //"license": "BSD-2-Clause",
+  //"bugs": {
+   // "url": "https://github.com/sithu/cmpe273-lab2/issues"
+  //}/
+//}/
